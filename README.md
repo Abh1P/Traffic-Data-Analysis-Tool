@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python-based application developed for the 4COSC001W Software Development I module at the University of Westminster. The tool is designed to analyze traffic flow data from CSV files and provide statistical insights and a visual summary.
+This project is a Python-based application . The tool is designed to analyze traffic flow data from CSV files and provide statistical insights and a visual summary.
 
 The goal of the project was to build a tool that allows a user to select a traffic survey dataset by date and then:
 1.  Calculate a series of specified statistical outcomes.
